@@ -1,3 +1,6 @@
+
+Colab link: https://colab.research.google.com/github/JayaKumarKarunakaran/TB-Detection-Using-DL-CNN-CCP-/blob/main/Tuberculosis_%28TB%29_Detection_from_Chest_X_ray_using_Deep_transfer_Learning_%28PyTorch%29.ipynb?authuser=1#scrollTo=MB7XaTZ3Xgi8
+
 # Title: Tuberculosis (TB) Detection from Chest X-ray using Deep Transfer Learning (PyTorch)
 
 ## Domain: Core course project 
